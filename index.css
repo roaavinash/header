@@ -30,7 +30,8 @@
     background-color: #0d0620;
     
     float: left;
-    color: cornsilk;
+    margin-top: 5px;
+    color: rgb(255, 251, 251);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -38,6 +39,6 @@
 }
 
 .nav i:hover {
-    background-color: #0d0620;
+    background-color: #150935;
     color: rgb(240, 235, 235);
 }
